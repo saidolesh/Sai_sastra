@@ -1,26 +1,5 @@
-header{
-    padding: 20px;
-    line-height: 0.5;
-    background-color: aquamarine;
-    border: 1px solid black;
-    border-radius: 10px;
-}
-
-body{
-    margin: 50px ;
-
-}
-section{
-    background-color: antiquewhite;
-}
-
-section{
-    padding: 20px;
-}
-
-input[type="submit"]{
-
-    background-color: aquamarine;
-    border: 2px solid black;
-    width: 80px;
+@media screen and (width:600px) {
+    body{
+        color: red;
+    }
 }
