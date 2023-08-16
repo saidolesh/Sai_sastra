@@ -1,5 +1,5 @@
-@media screen and (width:600px) {
+@media (orientation:landscape){
     body{
-        color: red;
+        color: blue;
     }
 }
